@@ -1,9 +1,9 @@
 ### ***Stanis***
 Repositório Pessoal
-Profissional:
+***Profissional:***
 - Redes TCP/IP
 - Suporte a Microinformática
 - Analista de Suporte
 
-Estudante de programação:
+***Estudante de programação:***
 - Python
